@@ -23,7 +23,7 @@ There are two directories Code and Data.
 ### Data:
 
 kag_risk_factors_cervical_cancer.csv.
-csv file downloaded from Kaggle (https://www.kaggle.com/loveall/cervical-cancer-risk-classification):
+csv file downloaded from Kaggle (https://www.kaggle.com/loveall/cervical-cancer-risk-classification). The dataset is originally from Venezuelan patients (https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)
 
 
 Cervix_cancer_data_profiling_report.html. Train Data analysis report
