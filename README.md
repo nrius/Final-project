@@ -14,6 +14,8 @@ There are two directories Code and Data.
 
 ### Code: 
 
+Four Jupyter Notebooks:
+
   cervix_project_1. Data_preparation. Data splitting, cleaning and LogisticRegression
   
   cervix_project_2.Model_design_1. Testing a neural network model to predict the results of a biopsy
