@@ -17,7 +17,9 @@ There are two directories Code and Data.
   cervix_project_1. Data_preparation. Data sppliting, cleaning and LinearRegression
   
   cervix_project_2.Model_design_1. Testing more complex model to predict the results of a biopsy
+  
   cervix_project_2.Model_design_2. Set initial bias to train the model
+  
   cervix_project_2.Model_design_3. Using SMOTE to balance dataset
   
 ### Data:
@@ -28,6 +30,8 @@ csv file downloaded from Kaggle (https://www.kaggle.com/loveall/cervical-cancer-
 
 Cervix_cancer_data_profiling_report.html. Train Data analysis report
 
-Intermedite output files
+Cervix_cancer_data_profiling_report_post_processing.html. Train Data analysis report after data cleaning
+
+Intermedite output files (csv files)
 
 
