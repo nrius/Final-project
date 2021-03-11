@@ -5,7 +5,7 @@ Using Machine Learning to predict cervix cancer risk
 
 ## Rationale
 
-ML is on its way to become a powerful dyagnostic tool. Unitl then, it can be used to determine were to focus screening efforts.
+ML is on its way to become a powerful dyagnostic tool. Unitl then, it can be used to determine where to focus screening efforts.
 In this project I try to predict the risk of having a positive cervical cancer biopsy using survey infromation regarding potential risk factors. The dataset comprises demographic information, habits, and historic medical records of 858 Venezuelan patients. 
 
 
