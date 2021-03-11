@@ -14,9 +14,9 @@ There are two directories Code and Data.
 
 ### Code: 
 
-  cervix_project_1. Data_preparation. Data sppliting, cleaning and LinearRegression
+  cervix_project_1. Data_preparation. Data splitting, cleaning and LogisticRegression
   
-  cervix_project_2.Model_design_1. Testing more complex model to predict the results of a biopsy
+  cervix_project_2.Model_design_1. Testing a neural network model to predict the results of a biopsy
   
   cervix_project_2.Model_design_2. Set initial bias to train the model
   
